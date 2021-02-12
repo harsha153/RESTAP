@@ -8,8 +8,7 @@ import org.springframework.web.client.RestTemplate;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-//@RunWith(SpringRunner.class)
-//@SpringBootTest(webEnvironment=WebEnvironment.DEFINED_PORT,classes=RestapiApplication.class)
+
 public class StepDef {
 String url;
 Double result;
